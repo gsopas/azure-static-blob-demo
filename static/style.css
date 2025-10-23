@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f5f5f5;
+}
+#images img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
